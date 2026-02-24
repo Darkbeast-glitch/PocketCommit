@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528516110727",
+    "project_id": "pocket-commit",
+    "storage_bucket": "pocket-commit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528516110727:android:2db198af5110af47765b22",
+        "android_client_info": {
+          "package_name": "com.example.pocket_commit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosGpJ--k7zz7EhGwmqZuLeeTEhlzFa1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
